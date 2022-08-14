@@ -51,14 +51,14 @@
 | [tesseract-on-aws](https://github.com/abarrak/tesseract-on-aws) |
 
 #
-* 💚 I love open source and have contributed to: 
+💚 I love open source and have contributed to: 
     
 >  [Rtesseract](https://github.com/dannnylo/rtesseract/graphs/contributors), [postgres-copy](https://github.com/diogob/postgres-copy/pull/48), [Active Merchant](https://github.com/activemerchant/active_merchant/pulls?q=is%3Apr+author%3Aabarrak+), [ngx-gallery](https://github.com/lukasz-galka/ngx-gallery), 
   [Localization.Json](https://github.com/hishamco/My.Extensions.Localization.Json), 
 >
 > [3scale_toolbox](https://github.com/3scale/3scale_toolbox), [best-ruby](https://github.com/franzejr/best-ruby/pull/71), [form.io](https://github.com/formio/formio.js/pull/866) ... among others ✌️
   
-
+#
 ![abarrak's GitHub stats](https://github-readme-stats.vercel.app/api?username=abarrak&show_icons=true&theme=onedark) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abarrak&layout=compact)
