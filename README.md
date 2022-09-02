@@ -7,26 +7,30 @@
 
 💻 Gallery ..
 
-| Apps  | Ruby Gems | Custom Solutions | Docs |
-| :-- | ------ | ---- | ----- |
-| [License Manager](https://github.com/abarrak/license-manager) [Rails] | [network-client](https://github.com/abarrak/network-client) | [3scale-profile-share-policy](https://github.com/ElmCompany/) [Lua] | [Why Compiled Languages?](https://whycompiledlanguages.com/) |
-| [Optical Reader](https://github.com/abarrak/optical-reader) [Ruby] | [values_at_nested](https://github.com/abarrak/values_at_nested) | [moyasar-invoices-wix](https://github.com/ecleel/moyasar-invoices-wix) [JS] |  [SRE notebook](https://github.com/abarrak/sre-notebook) |
-| [card-mine](https://github.com/abarrak/card-mine) [iOS] | [except_nested](https://rubygems.org/gems/except_nested) | - | [Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook) |
-| [Quotes](https://github.com/abarrak/Quotes-Application) [.NET] | [rtl](https://github.com/abarrak/rtl) | - | [tesseract-on-aws](https://github.com/abarrak/tesseract-on-aws) |
+| Apps  | Ruby Gems | Docs |
+| :-- | ------ | ----- |
+| [License Manager](https://github.com/abarrak/license-manager) | [network-client](https://github.com/abarrak/network-client) | [Why Compiled Languages?](https://whycompiledlanguages.com/) |
+| [Optical Reader](https://github.com/abarrak/optical-reader) | [values_at_nested](https://github.com/abarrak/values_at_nested) | [Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook) |
+| [card-mine](https://github.com/abarrak/card-mine) | [except_nested](https://rubygems.org/gems/except_nested) | [tesseract-on-aws](https://github.com/abarrak/tesseract-on-aws) |
+| [Quotes](https://github.com/abarrak/Quotes-Application) | [rtl](https://github.com/abarrak/rtl) | |
 
 
 
 ### Ansible Roles & Collections
 
-| [offline-k3s-ansible-role](https://github.com/abarrak/offline-k3s-collection). |
+| [k3s-ansible-role](https://github.com/abarrak/k3s-offline-ansible) |
 | --------- |
 
-| [offline-postgres-ansible-collection](https://github.com/abarrak/offline-postgres-ansible-collection). |
+| [offline-postgres-ansible](https://github.com/abarrak/postgres-offline-ansible) |
 | --------- |
 
-| [redis-ansible-role](https://github.com/abarrak/redis-ansible-role). |
+| [redis-ansible-role](https://github.com/abarrak/redis-ansible-role) |
 | --------- |
 
+### Custom Solutions 
+- [3scale-profile-share-policy](https://github.com/ElmCompany/) [Lua].
+- [3scale-keycloak-users-migration](https://github.com/abarrak/3scale-keycloak-users-migration) [Ruby].
+- [moyasar-invoices-wix](https://github.com/ecleel/moyasar-invoices-wix) [JS].
 
 #
 💚 I love open source and have contributed to: 
