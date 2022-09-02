@@ -9,10 +9,10 @@
 
 | Apps  | Ruby Gems | Docs |
 | :-- | ------ | ----- |
-| [License Manager](https://github.com/abarrak/license-manager) | [network-client](https://github.com/abarrak/network-client) | [Why Compiled Languages?](https://whycompiledlanguages.com/) |
-| [Optical Reader](https://github.com/abarrak/optical-reader) | [values_at_nested](https://github.com/abarrak/values_at_nested) | [Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook) |
+| [License Manager](https://github.com/abarrak/license-manager) | [network-client](https://rubygems.org/gems/network-client) | [Why Compiled Languages?](https://whycompiledlanguages.com/) |
+| [Optical Reader](https://github.com/abarrak/optical-reader) | [values_at_nested](https://rubygems.org/gems/values_at_nested) | [Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook) |
 | [card-mine](https://github.com/abarrak/card-mine) | [except_nested](https://rubygems.org/gems/except_nested) | [tesseract-on-aws](https://github.com/abarrak/tesseract-on-aws) |
-| [Quotes](https://github.com/abarrak/Quotes-Application) | [rtl](https://github.com/abarrak/rtl) | |
+| [Quotes](https://github.com/abarrak/Quotes-Application) | [rtl](https://rubygems.org/gems/rtl) | |
 
 
 
