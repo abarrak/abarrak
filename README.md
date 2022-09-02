@@ -21,7 +21,7 @@
 | [k3s-ansible-role](https://github.com/abarrak/k3s-offline-ansible) |
 | --------- |
 
-| [offline-postgres-ansible](https://github.com/abarrak/postgres-offline-ansible) |
+| [postgres-offline-ansible](https://github.com/abarrak/postgres-offline-ansible) |
 | --------- |
 
 | [redis-ansible-role](https://github.com/abarrak/redis-ansible-role) |
