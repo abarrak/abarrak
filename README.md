@@ -1,6 +1,6 @@
 ### Hey, I'm Abdullah. 👋🏻
 
-* 🌱 Full-stack developer & SRE.
+* 🌱 A Senior SRE.
 * 💡 My preferred technology stack is Rails, Postgres, JavaScript, and Git.
 * 📘 Articles on: [abarrak.com](https://www.abarrak.com).
 * 💚 I love open source and had contributed to: 
