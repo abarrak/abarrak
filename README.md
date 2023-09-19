@@ -24,17 +24,17 @@
 
 #### Ansible Roles 📔
 1. [docker-server](https://galaxy.ansible.com/abarrak/docker_server_role).
-2. [Gatus](https://galaxy.ansible.com/abarrak/gatus).
-3. [Plik](https://galaxy.ansible.com/abarrak/plik_ansible_role).
-4. [Patchi](https://github.com/abarrak/patchi):  A minimal role to automate security updates to linux servers. .
+2. [gatus](https://galaxy.ansible.com/abarrak/gatus).
+3. [plik](https://galaxy.ansible.com/abarrak/plik_ansible_role).
+4. [patchi](https://github.com/abarrak/patchi).
 5. [Samba](https://galaxy.ansible.com/abarrak/samba_ansible_role).
 6. [redis-k8s](https://galaxy.ansible.com/abarrak/redis_ansible_role).
 
 #### Solutions 💡
 - [3scale-profile-share-policy](https://github.com/ElmCompany/) [Lua].
-- [moyasar-invoices-wix](https://github.com/ecleel/moyasar-invoices-wix) [JS].
+- [moyasar-invoices-wix](https://github.com/ecleel/moyasar-invoices-wix) [js].
 - [opencv helpers](https://github.com/abarrak/opencv-helpers) [python].
-- [Optical Reader](https://github.com/abarrak/optical-reader) [ruby/javascript].
+- [Optical Reader](https://github.com/abarrak/optical-reader) [ruby].
 - [card-mine](https://github.com/abarrak/card-mine) [swift].
 
 #### Docs
