@@ -23,12 +23,12 @@
 5. [3scale-keycloak-users-migration](https://rubygems.org/gems/keycloak_3scale_users).
 
 #### Ansible Roles 📔
-1. [docker-server](https://galaxy.ansible.com/abarrak/docker_server_role).
-2. [gatus](https://galaxy.ansible.com/abarrak/gatus).
-3. [plik](https://galaxy.ansible.com/abarrak/plik_ansible_role).
+1. [docker-server](https://galaxy.ansible.com/ui/standalone/roles/abarrak/docker_server_role).
+2. [gatus](https://galaxy.ansible.com/ui/standalone/roles/abarrak/gatus).
+3. [plik](https://galaxy.ansible.com/ui/standalone/roles/abarrak/plik_ansible_role/).
 4. [patchi](https://github.com/abarrak/patchi).
-5. [Samba](https://galaxy.ansible.com/abarrak/samba_ansible_role).
-6. [redis-k8s](https://galaxy.ansible.com/abarrak/redis_ansible_role).
+5. [Samba](https://galaxy.ansible.com/ui/standalone/roles/abarrak/samba_ansible_role/).
+6. [redis-k8s](https://galaxy.ansible.com/ui/standalone/roles/abarrak/redis_ansible_role/).
 
 #### Solutions 💡
 - [3scale-profile-share-policy](https://github.com/ElmCompany/) [Lua].
