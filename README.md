@@ -37,12 +37,6 @@
 - [Optical Reader](https://github.com/abarrak/optical-reader) [ruby].
 - [card-mine](https://github.com/abarrak/card-mine) [swift].
 
-#### Docs
-1. [SRE notebook](https://github.com/abarrak/sre-notebook).
-2. [Why Compiled Languages?](https://whycompiledlanguages.com/)
-3. [Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook).
-4. [tesseract-on-aws](https://github.com/abarrak/tesseract-on-aws)
-
 #
 ![abarrak's GitHub stats](https://github-readme-stats.vercel.app/api?username=abarrak&show_icons=true&theme=onedark) 
 
