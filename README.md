@@ -38,6 +38,6 @@
 - [card-mine](https://github.com/abarrak/card-mine) [swift].
 
 #
-![abarrak's GitHub stats](https://github-readme-stats.vercel.app/api?username=abarrak&show_icons=true&theme=onedark) 
+![abarrak's GitHub stats](https://github-readme-stats.vercel.app/api?username=abarrak&show_icons=true&theme=shadow_blue) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abarrak&layout=compact)
