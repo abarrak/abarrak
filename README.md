@@ -12,30 +12,17 @@
 
 <br>
 
+
 ## 💻 Gallery ~ Personal
 
-
-#### Ruby Gems 💎
-1. [network-client](https://rubygems.org/gems/network-client).
-2. [values_at_nested](https://rubygems.org/gems/values_at_nested).
-3. [except_nested](https://rubygems.org/gems/except_nested)
-4. [rtl](https://rubygems.org/gems/rtl).
-5. [3scale-keycloak-users-migration](https://rubygems.org/gems/keycloak_3scale_users).
-
-#### Ansible Roles 📔
-1. [docker-server](https://galaxy.ansible.com/ui/standalone/roles/abarrak/docker_server_role).
-2. [gatus](https://galaxy.ansible.com/ui/standalone/roles/abarrak/gatus).
-3. [plik](https://galaxy.ansible.com/ui/standalone/roles/abarrak/plik_ansible_role/).
-4. [patchi](https://github.com/abarrak/patchi).
-5. [Samba](https://galaxy.ansible.com/ui/standalone/roles/abarrak/samba_ansible_role/).
-6. [redis-k8s](https://galaxy.ansible.com/ui/standalone/roles/abarrak/redis_ansible_role/).
-
-#### Solutions 💡
-- [3scale-profile-share-policy](https://github.com/ElmCompany/) [Lua].
-- [moyasar-invoices-wix](https://github.com/ecleel/moyasar-invoices-wix) [js].
-- [opencv helpers](https://github.com/abarrak/opencv-helpers) [python].
-- [Optical Reader](https://github.com/abarrak/optical-reader) [ruby].
-- [card-mine](https://github.com/abarrak/card-mine) [swift].
+| Ruby Gems 💎 | Ansible Roles 📔 |  Solutions 💡 |
+| --------------- | --------------- | --------------- |
+| [network-client](https://rubygems.org/gems/network-client) | [docker-server](https://galaxy.ansible.com/ui/standalone/roles/abarrak/docker_server_role) | [3scale-profile-share-policy](https://github.com/ElmCompany/) |
+| [values_at_nested](https://rubygems.org/gems/values_at_nested) | [gatus](https://galaxy.ansible.com/ui/standalone/roles/abarrak/gatus) | [dex helmfile-offline](https://github.com/abarrak/dex-helmfile-offline)  |
+| [except_nested](https://rubygems.org/gems/except_nested) | [plik](https://galaxy.ansible.com/ui/standalone/roles/abarrak/plik_ansible_role/) | [opencv helpers](https://github.com/abarrak/opencv-helpers) |
+| [rtl](https://rubygems.org/gems/rtl). | [patchi](https://github.com/abarrak/patchi) | [Optical Reader](https://github.com/abarrak/optical-reader) |
+| [3scale-keycloak-users-migration](https://rubygems.org/gems/keycloak_3scale_users). | [Samba](https://galaxy.ansible.com/ui/standalone/roles/abarrak/samba_ansible_role/) | [moyasar-invoices-wix](https://github.com/ecleel/moyasar-invoices-wix)|
+| – | [redis-k8s](https://galaxy.ansible.com/ui/standalone/roles/abarrak/redis_ansible_role/) | [card-mine](https://github.com/abarrak/card-mine) |
 
 #
 <p float="left">
