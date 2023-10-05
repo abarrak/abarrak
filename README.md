@@ -17,7 +17,7 @@
 
 | Ruby Gems 💎 | Ansible Roles 📔 |  Solutions 💡 |
 | --------------- | --------------- | --------------- |
-| [network-client](https://rubygems.org/gems/network-client) | [docker-server](https://galaxy.ansible.com/ui/standalone/roles/abarrak/docker_server_role) | [3scale-profile-share-policy](https://github.com/ElmCompany/) |
+| [network-client](https://rubygems.org/gems/network-client) | [docker-server](https://galaxy.ansible.com/ui/standalone/roles/abarrak/docker_server_role) | [3scale-profile-share-policy](https://github.com/ElmCompany/3scale-profile-share-policy) |
 | [values_at_nested](https://rubygems.org/gems/values_at_nested) | [gatus](https://galaxy.ansible.com/ui/standalone/roles/abarrak/gatus) | [dex helmfile-offline](https://github.com/abarrak/dex-helmfile-offline)  |
 | [except_nested](https://rubygems.org/gems/except_nested) | [plik](https://galaxy.ansible.com/ui/standalone/roles/abarrak/plik_ansible_role/) | [opencv helpers](https://github.com/abarrak/opencv-helpers) |
 | [rtl](https://rubygems.org/gems/rtl). | [patchi](https://github.com/abarrak/patchi) | [Optical Reader](https://github.com/abarrak/optical-reader) |
