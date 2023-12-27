@@ -4,10 +4,10 @@
 * 📘 Articles on: [abarrak.com](https://www.abarrak.com).
 * 💚 I love open source and had contributed to: 
 
-    >  [Rtesseract](https://github.com/dannnylo/rtesseract/graphs/contributors), [postgres-copy](https://github.com/diogob/postgres-copy/pull/48), [Active Merchant](https://github.com/activemerchant/active_merchant/pulls?q=is%3Apr+author%3Aabarrak+), [ngx-gallery](https://github.com/lukasz-galka/ngx-gallery), 
+    >  [Rtesseract](https://github.com/dannnylo/rtesseract/graphs/contributors), [postgres-copy](https://github.com/diogob/postgres-copy/pull/48), [Active Merchant](https://github.com/activemerchant/active_merchant/pulls?q=is%3Apr+author%3Aabarrak+), [ngx-gallery](https://github.com/lukasz-galka/ngx-gallery/pull/247), 
   [Localization.Json](https://github.com/hishamco/My.Extensions.Localization.Json),
      >
-     > [traefik-helm](https://github.com/traefik/traefik-helm-chart/pull/640/), [3scale_toolbox](https://github.com/3scale/3scale_toolbox), [best-ruby](https://github.com/franzejr/best-ruby/pull/71), [form.io](https://github.com/formio/formio.js/pull/866) ... among others ✌️
+     > [traefik-helm](https://github.com/traefik/traefik-helm-chart/pull/640/), [3scale_toolbox](https://github.com/3scale/3scale_toolbox/pull/343), [best-ruby](https://github.com/franzejr/best-ruby/pull/71), [form.io](https://github.com/formio/formio.js/pull/866) ... among others ✌️
   
 
 <br>
