@@ -1,5 +1,5 @@
 * 📘 Articles on: [abarrak.com](https://www.abarrak.com).
-* 🌱 I love the open source community, and admire the contribution culture. 
+* 🌱 I love open source, and admire the contribution culture in the community. 
 
 #
 <p float="left">
