@@ -12,5 +12,6 @@
 
 #
 <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=abarrak&show_icons=true&theme=shadow_blue" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abarrak&show_icons=true&theme=shadow_blue" width="330px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abarrak&layout=compact" width="250px" />    
 </p>
